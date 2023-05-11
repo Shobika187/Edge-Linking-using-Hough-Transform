@@ -72,13 +72,14 @@ plt.show()
 
 ### Input image and grayscale image
 ![out](./sh8.1.png)
+![out](./sh8.2.png)
 
 ### Canny Edge detector output
 
-![out](./sh8.2.png)
+![out](./sh8.3.png)
 
 ### Display the result of Hough transform
-![out](./sh8.3.png)
+![out](./sh8.4.png)
 
 
 
